@@ -24,7 +24,7 @@
                 HorizontalOptions="Center" />
 
             <Label
-                Text="I'm the mainpage. I have a toolbar with one item, that has an IconImageSource defined."
+                Text="I'm the mainpage. I have a toolbar with one item, that has an IconImageSource defined. Clicking that Toolbar item will bring you to the subpage with the issue."
                 SemanticProperties.HeadingLevel="Level2"
                 SemanticProperties.Description="Welcome to dot net Multi platform App U I"
                 FontSize="18"
